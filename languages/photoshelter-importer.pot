@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: assets/src/js/blocks/ps-media/index.js:24
+msgid "PhotoShelter"
+msgstr ""
+
+#: assets/src/js/blocks/ps-media/index.js:25
+msgid "PhotoShelter Media Block"
+msgstr ""
+
+#: assets/src/js/blocks/ps-media/index.js:29
+msgid "Images"
+msgstr ""
+
+#: assets/src/js/components/Breadcrumbs.js:36
+msgid "Home"
+msgstr ""
+
+#: assets/src/js/components/Breadcrumbs.js:45
+msgid "Invited"
+msgstr ""
+
+#: assets/src/js/components/Breadcrumbs.js:51
+msgid "Library"
+msgstr ""
+
+#: assets/src/js/components/Breadcrumbs.js:79
+msgid "Back to Browse"
+msgstr ""
+
+#: assets/src/js/components/Collection.js:12
+msgid "Retrieving collection..."
+msgstr ""
+
+#: assets/src/js/components/Collection.js:31
+msgid "Collection is empty"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:111
+msgid "JPEG - original size"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:132
+msgid "MP4 - original size"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:157
+msgid "Original file"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:31
+msgid "Retrieving media..."
+msgstr ""
+
+#: assets/src/js/components/FileView.js:344
+msgid "Attachment details"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:365
+msgid ""
+"Note: Changes that you make here will not be reflected in your PhotoShelter "
+"Library"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:369
+msgid "File format"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:374
+msgid "Filename / Title"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:379
+msgid "Alt Text"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:384
+msgid "Caption"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:390
+msgid "Link"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:398
+msgid "Powered by"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:404
+msgid "%1$d of %2$d"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:412
+msgid "Insert"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:412
+msgid "Import"
+msgstr ""
+
+#: assets/src/js/components/FileView.js:50
+msgid "Imported asset."
+msgstr ""
+
+#: assets/src/js/components/FileView.js:55
+msgid "View Asset"
+msgstr ""
+
+#: assets/src/js/components/Gallery.js:12
+msgid "Retrieving gallery..."
+msgstr ""
+
+#: assets/src/js/components/Gallery.js:35
+msgid "Gallery is empty"
+msgstr ""
+
+#: assets/src/js/components/InvitedHome.js:34
+#: assets/src/js/components/LibraryHome.js:34
+msgid "Fetching library..."
+msgstr ""
+
+#: assets/src/js/components/LibraryPlaceholder.js:47
+msgid "Browse or search your PhotoShelter Library"
+msgstr ""
+
+#: assets/src/js/components/LibraryPlaceholder.js:49
+msgid "Open Library"
+msgstr ""
+
+#: assets/src/js/components/SearchForm.js:52
+msgid "Search"
+msgstr ""
+
+#: assets/src/js/components/SearchResults.js:40
+msgid "There are no results yet"
+msgstr ""
+
+#: assets/src/js/components/SearchResults.js:41
+msgid "Try a new search or change your filters."
+msgstr ""
+
+#: assets/src/js/components/SearchResults.js:47
+msgid "Search Results"
+msgstr ""
+
+#: assets/src/js/components/ThumbnailGallery.js:53
+msgid "File"
+msgstr ""
+
+#: assets/src/js/components/ThumbnailGallery.js:53
+msgid "Files"
+msgstr ""
+
+#: assets/src/js/utilities/fetch.js:101
+msgid "An unknown error occurred."
+msgstr ""
+
+#: assets/src/js/utilities/fetch.js:23
+msgid "Bad JSON response."
+msgstr ""
+
+#: assets/src/js/utilities/fetch.js:76
+#. %1$s is the status code, and %2$s is the status text.
+msgid "Status code: %1$s | %2$s"
+msgstr ""
+
+#: assets/src/js/utilities/fetch.js:86
+#. %s is the stringified JSON response.
+msgid "Got unexpected response object: %s"
+msgstr ""
